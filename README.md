@@ -1,2 +1,4 @@
+<img src="https://www.pngkey.com/png/full/6-60004_plus-sign-images-clipart-best-2hluoq-clipart-red.png" width="40" alt="cruz vermelha">
 # desafio-dio-trilha-html-modulo-2
-Neste desafio busco aplicar a todas as tags html aprendidas que possam ser úteis na criação do site de uma clínica
+<br>
+# Neste desafio busco aplicar a todas as <i>tags html</i> aprendidas que possam ser úteis na criação do <i>site</i> de uma clínica.
